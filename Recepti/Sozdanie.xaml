@@ -1,0 +1,32 @@
+﻿<Window x:Class="Recepti.Sozdanie"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Recepti"
+        mc:Ignorable="d"
+        Title="Menu" Height="800" Width="1500" 
+        WindowStartupLocation="CenterScreen">
+    <Grid Margin="20" Background="#FF806E60">
+        <Label Content="Название рецепта" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,133,0,0" FontSize="16"/>
+        <TextBox Name="Nazvanie" VerticalAlignment="Top" Margin="10,164,10,0" TextChanged="NazvanieTextBox_TextChanged" FontSize="16" Height="35"/>
+
+        <Label Content="Автор рецепта" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,203,0,0" FontSize="16"/>
+        <TextBox Name="Avtor_Recepta" VerticalAlignment="Top" Margin="10,234,10,0" TextChanged="Avtor_ReceptaTextBox_TextChanged" FontSize="16" Height="35"/>
+
+        <Label Content="Описание" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,263,0,0" FontSize="16"/>
+        <TextBox Name="Opisanie" VerticalAlignment="Top" Margin="10,294,10,0" TextChanged="OpisanieTextBox_TextChanged" FontSize="16" Height="35"/>
+
+        <Label Content="Категория" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,323,0,0" FontSize="16"/>
+        <TextBox Name="Kategoria" VerticalAlignment="Center" Margin="10,0,10,0" TextChanged="KategoriaTextBox_TextChanged" FontSize="16" Height="35"/>
+
+        <Label Content="Ингредиенты" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,383,0,0" FontSize="16"/>
+        <TextBox Name="Ingredienti" VerticalAlignment="Top" Margin="10,415,10,0" TextChanged="IngredientiTextBox_TextChanged" FontSize="16" Height="35"/>
+
+        <Label Content="Инструкция" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,443,0,0" FontSize="16"/>
+        <TextBox Name="Instrukcia" VerticalAlignment="Top" Margin="10,474,10,0" TextChanged="InstrukciaTextBox_TextChanged" FontSize="16" Height="35"/>
+
+        <Button Content="Назад" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,650,0,0" Width="200" Height="50" Click="Button_Click"/>
+        <Button Content="Опубликовать" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,566,0,0" Width="200" Height="50" Click="Button_Click2"/>
+    </Grid>
+</Window>

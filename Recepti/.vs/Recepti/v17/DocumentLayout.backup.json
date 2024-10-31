@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vd545\\source\\repos\\Recepti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C71A6844-1A95-42F0-946C-796D55B9D57C}|Recepti.csproj|c:\\users\\vd545\\source\\repos\\recepti\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71A6844-1A95-42F0-946C-796D55B9D57C}|Recepti.csproj|solutionrelative:currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71A6844-1A95-42F0-946C-796D55B9D57C}|Recepti.csproj|C:\\Users\\Vd545\\source\\repos\\Recepti\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71A6844-1A95-42F0-946C-796D55B9D57C}|Recepti.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71A6844-1A95-42F0-946C-796D55B9D57C}|Recepti.csproj|C:\\Users\\Vd545\\source\\repos\\Recepti\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C71A6844-1A95-42F0-946C-796D55B9D57C}|Recepti.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71A6844-1A95-42F0-946C-796D55B9D57C}|Recepti.csproj|C:\\Users\\Vd545\\source\\repos\\Recepti\\sozdanie.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71A6844-1A95-42F0-946C-796D55B9D57C}|Recepti.csproj|solutionrelative:sozdanie.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71A6844-1A95-42F0-946C-796D55B9D57C}|Recepti.csproj|C:\\Users\\Vd545\\source\\repos\\Recepti\\regist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71A6844-1A95-42F0-946C-796D55B9D57C}|Recepti.csproj|solutionrelative:regist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71A6844-1A95-42F0-946C-796D55B9D57C}|Recepti.csproj|C:\\Users\\Vd545\\source\\repos\\Recepti\\recept.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71A6844-1A95-42F0-946C-796D55B9D57C}|Recepti.csproj|solutionrelative:recept.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71A6844-1A95-42F0-946C-796D55B9D57C}|Recepti.csproj|C:\\Users\\Vd545\\source\\repos\\Recepti\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71A6844-1A95-42F0-946C-796D55B9D57C}|Recepti.csproj|solutionrelative:menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71A6844-1A95-42F0-946C-796D55B9D57C}|Recepti.csproj|C:\\Users\\Vd545\\source\\repos\\Recepti\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71A6844-1A95-42F0-946C-796D55B9D57C}|Recepti.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71A6844-1A95-42F0-946C-796D55B9D57C}|Recepti.csproj|C:\\Users\\Vd545\\source\\repos\\Recepti\\glavnoe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71A6844-1A95-42F0-946C-796D55B9D57C}|Recepti.csproj|solutionrelative:glavnoe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71A6844-1A95-42F0-946C-796D55B9D57C}|Recepti.csproj|C:\\Users\\Vd545\\source\\repos\\Recepti\\comment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71A6844-1A95-42F0-946C-796D55B9D57C}|Recepti.csproj|solutionrelative:comment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\Vd545\\source\\repos\\Recepti\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "CurrentUser.cs",
+              "ToolTip": "C:\\Users\\Vd545\\source\\repos\\Recepti\\CurrentUser.cs",
+              "RelativeToolTip": "CurrentUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:08:37.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vd545\\source\\repos\\Recepti\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Vd545\\source\\repos\\Recepti\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:08:18.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Vd545\\source\\repos\\Recepti\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Vd545\\source\\repos\\Recepti\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T17:08:14.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Comment.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vd545\\source\\repos\\Recepti\\Comment.xaml.cs",
+              "RelativeDocumentMoniker": "Comment.xaml.cs",
+              "ToolTip": "C:\\Users\\Vd545\\source\\repos\\Recepti\\Comment.xaml.cs",
+              "RelativeToolTip": "Comment.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:04:27.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Glavnoe.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vd545\\source\\repos\\Recepti\\Glavnoe.xaml.cs",
+              "RelativeDocumentMoniker": "Glavnoe.xaml.cs",
+              "ToolTip": "C:\\Users\\Vd545\\source\\repos\\Recepti\\Glavnoe.xaml.cs",
+              "RelativeToolTip": "Glavnoe.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:04:25.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vd545\\source\\repos\\Recepti\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Vd545\\source\\repos\\Recepti\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:04:23.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vd545\\source\\repos\\Recepti\\Menu.xaml.cs",
+              "RelativeDocumentMoniker": "Menu.xaml.cs",
+              "ToolTip": "C:\\Users\\Vd545\\source\\repos\\Recepti\\Menu.xaml.cs",
+              "RelativeToolTip": "Menu.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:04:22.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Recept.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vd545\\source\\repos\\Recepti\\Recept.xaml.cs",
+              "RelativeDocumentMoniker": "Recept.xaml.cs",
+              "ToolTip": "C:\\Users\\Vd545\\source\\repos\\Recepti\\Recept.xaml.cs",
+              "RelativeToolTip": "Recept.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:04:20.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Regist.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vd545\\source\\repos\\Recepti\\Regist.xaml.cs",
+              "RelativeDocumentMoniker": "Regist.xaml.cs",
+              "ToolTip": "C:\\Users\\Vd545\\source\\repos\\Recepti\\Regist.xaml.cs",
+              "RelativeToolTip": "Regist.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:04:19.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sozdanie.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vd545\\source\\repos\\Recepti\\Sozdanie.xaml.cs",
+              "RelativeDocumentMoniker": "Sozdanie.xaml.cs",
+              "ToolTip": "C:\\Users\\Vd545\\source\\repos\\Recepti\\Sozdanie.xaml.cs",
+              "RelativeToolTip": "Sozdanie.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:04:16.944Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

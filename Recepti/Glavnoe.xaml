@@ -1,0 +1,23 @@
+﻿<Window x:Class="Recepti.Glavnoe"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Menu" Height="800" Width="1500" 
+        WindowStartupLocation="CenterScreen">
+    <Grid Background="#FF806E60">
+        <DataGrid x:Name="dgRecipes" AutoGenerateColumns="False" SelectionChanged="dgRecipes_SelectionChanged" Margin="65,55,65,150" FontSize="20">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Название рецепта" Binding="{Binding Nazvanie}" />
+                <DataGridTextColumn Header="Автор рецепта" Binding="{Binding Avtor_Recepta}" />
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Перейти" Click="ActionButton_Click" FontSize="20"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Назад" HorizontalAlignment="Left" Margin="525,653,0,0" VerticalAlignment="Top" Height="68" Width="201" Click="Button_Click" FontSize="20"/>
+        <Button Content="Записать рецепт" HorizontalAlignment="Left" Margin="750,653,0,0" VerticalAlignment="Top" Height="68" Width="201" Click="Button_Click2" FontSize="20"/>
+    </Grid>
+</Window>

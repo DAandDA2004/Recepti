@@ -1,0 +1,22 @@
+﻿<Window x:Class="Recepti.Regist"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Регистрация" Height="450" Width="400" 
+        WindowStartupLocation="CenterScreen">
+    <Grid Margin="20">
+        <Label Content="Имя" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0"/>
+        <TextBox Name="NameTextBox" HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="10,30,10,0" TextChanged="NameTextBox_TextChanged"/>
+
+        <Label Content="Фамилия" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,80,0,0"/>
+        <TextBox Name="SurnameTextBox" HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="10,100,10,0" TextChanged="SurnameTextBox_TextChanged"/>
+
+        <Label Content="Логин" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,140,0,0"/>
+        <TextBox Name="LoginTextBox" HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="10,160,10,0" TextChanged="LoginTextBox_TextChanged"/>
+
+        <Label Content="Пароль" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,200,0,0"/>
+        <TextBox Name="PasswordTextBox" HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="10,220,10,0" TextChanged="PasswordTextBox_TextChanged"/>
+
+        <Button Content="Назад" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,30" Width="160" Click="Button_Click"/>
+        <Button Content="Авторизация" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,60" Width="160" Click="Button_Click_1"/>
+    </Grid>
+</Window>
